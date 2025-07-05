@@ -77,15 +77,15 @@
 <div class="ad-section">
   <!-- Adsttra Ad Unit 2 -->
   <script type="text/javascript">
-    atOptions = {
-      'key' : 'your-adsttra-key-2',
-      'format' : 'iframe',
-      'height' : 90,
-      'width' : 728,
-      'params' : {}
-    };
-    document.write('<scr' + 'ipt type="text/javascript" src="https://www.profitabledisplaynetwork.com/' + atOptions.key + '/invoke.js"></scr' + 'ipt>');
-  </script>
+	atOptions = {
+		'key' : 'bf6d6594e62549bf0ca1abd78ca28413',
+		'format' : 'iframe',
+		'height' : 600,
+		'width' : 160,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="//denialtransportationfair.com/bf6d6594e62549bf0ca1abd78ca28413/invoke.js"></script>
 </div>
 
   </div>  <script>
